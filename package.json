@@ -1,0 +1,30 @@
+{
+  "name": "physics-quest-8-grade",
+  "version": "1.0.0",
+  "description": "Образовательная интерактивная sci-fi RPG-игра по курсу физики 8 класса",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 8080",
+    "dev": "npx serve . -p 8080",
+    "serve": "npx serve . -p 8080"
+  },
+  "keywords": [
+    "physics",
+    "education",
+    "game",
+    "gamification",
+    "8th-grade",
+    "school-physics",
+    "science",
+    "rpg",
+    "html5-game",
+    "vanilla-js"
+  ],
+  "author": "Physics Quest Project",
+  "license": "MIT",
+  "homepage": "https://github.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  }
+}
